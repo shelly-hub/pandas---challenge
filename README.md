@@ -8,6 +8,8 @@ This project uses Jupyter notebook as the base workspace in addition to Pandas t
 
 The data compiles of the characteristics and budget used for all type of schools in the municipality, in combination with the maths and reading test results of each students, these were to aggregate by Pandas to find out their performances.
 
+Ensure the Visual Studio Code terminal page is always on when working with Jupyter workbook. 
+
   The benefit of using Pandas:
  - Large data set can be combined to create a readable summary table by extracting required information. 
  - The results can also be manipulated around according to the required information needed by using "groupby" tool in Pandas.
@@ -16,7 +18,6 @@ The data compiles of the characteristics and budget used for all type of schools
   The disadvantages of using Pandas:
  - Manual error check to be done step by step to ensure the raw data is uniform to work before proceed to the calculations.
  - Syntax error is intensive in the process of using Pandas. 
- - Ensure the Visual Studio Code terminal is always on when working with Jupyter workbook. 
 
 **References**
 
